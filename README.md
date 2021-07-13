@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @TheXtream
+- 👀 I’m interested in LUA, HTML, JS, Python, C# and C++
+- 🌱 I’m currently learning LUA and C#
+- 💞️ I’m currently working on my RP server named Balkan Blaze
+- 📫 How to reach me? You can contact me trough Discord: Xtream#0001
