@@ -9,11 +9,10 @@
 - 👀 I’m interested in LUA, HTML, JS, Python, C#
 - 🎮 Passionate gamer
 - 🖥️ Scripter & Programmer newcomer
-- 📫 You can contact me trough Discord: Xtream#0001
+- 📫 You can contact me through Discord: Xtream#0001
 - 🤓 Working as an IT Technician trainee
-- 🎲 Working on my RP server named Balkan Blaze
 - 🌐 Coming from Austria 🇦🇹
-- 🕸️ Take a look at my website! https://balkanblaze.xyz
+- 🕸️ Take a look at my website! h̶t̶t̶p̶s̶:̶/̶/̶b̶a̶l̶k̶a̶n̶b̶l̶a̶z̶e̶.̶x̶y̶z̶
 
 
 
